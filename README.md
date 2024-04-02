@@ -1,3 +1,5 @@
+A fork of Litecoin for personal research
+
 Csscoin Core integration/staging tree
 =====================================
 
