@@ -1,4 +1,4 @@
-A fork of Litecoin for personal research
+A fork of Litecoin for personal research called Csscoin. You can mine it, too. With compiled Windows binary.
 
 Csscoin Core integration/staging tree
 =====================================
