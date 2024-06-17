@@ -1,4 +1,4 @@
-A fork of Litecoin for personal research called Csscoin. You can mine it, too. With compiled Windows binary. This project has been conducted purely for personal research. It is currently not "functional" because there is no server as a starting point. (Obviously, in a p2p network you don't need a central server. In the past, however, I used to ran a central server to have an easier starting point for Csscoin nodes so that I didn't have to manually add the IP address of another node I wanted to connect with. You are free to use it on your own.
+A fork of Litecoin for personal research called Csscoin. In theory you could mine it, too. With compiled Windows binary. This project has been conducted purely for personal research. It is currently not "functional" because there is no server as a starting point. (Obviously, in a p2p network you don't need a central server. In the past, however, I used to ran a central server to have an easier starting point for Csscoin nodes so that I didn't have to manually add the IP address of another node I wanted to connect with)
 
 What follows is the original readme of Litecoin at that time
 
